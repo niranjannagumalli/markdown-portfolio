@@ -34,7 +34,7 @@ I am a **noob** in the field of cyber, but I am **determined** and **curious** t
 * 2018-2019
 * 929/1000
 * **99**/100 in Computer Applications.
-* Leader of one of the four houses of the school in the 9th class (Won the best house of the year award)
+* Leader of one of the four houses of the school in the 9th class (Won the second best house of the year award)
 
 
 
