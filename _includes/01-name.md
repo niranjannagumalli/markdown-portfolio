@@ -4,7 +4,7 @@
  * **Linkedin profile**  **:**  [Niranjan Nagumalli](https://www.linkedin.com/in/niranjannagumalli/)
  * **Location**              **:** Rajahmundry,Andhra Pradesh,India.
  
-I am a **noob** in this field of cyber, but I am **determined** and **curious** to learn new things .
+I am a **noob** in the field of cyber, but I am **determined** and **curious** to learn new things .
  
 
 ### Education
@@ -19,7 +19,7 @@ I am a **noob** in this field of cyber, but I am **determined** and **curious** 
     * Hardware
     * Some Advanced Linux
     * Completed Bandit  Level 1-15.
-    * Completed First week on Github course.(Created [Github profile](https://github.com/niranjannagumalli)and [github page](https://niranjannagumalli.github.io/markdown-portfolio/))
+    * Completed First week on Github course.(Created [Github profile](https://github.com/niranjannagumalli)and [github page](https://niranjannagumalli.github.io/markdown-portfolio/)
     
 * Successfully Dual-booted my (second-hand, 10 year old ) laptop (which was bought by my dad in October,2020) with Ubuntu & Windows (without usb/cd/dvd , thanks youtube).
 * Before that Used Linux in a VM,and also via the Windows Subsytem for Linux.
